@@ -4,7 +4,7 @@
     left: 0;
     width: 100%;
     height: 100vh; /* 100% of the viewport height */
-    background-image: url('../Drawable/1_page-0001.svg');
+    background-image: url('../Drawable/1_page-0001.webp');
     mix-blend-mode:exclusion;
     background-size: 100%;
     background-position: center;
