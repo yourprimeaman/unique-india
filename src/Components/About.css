@@ -1,0 +1,16 @@
+/* About section styles */
+.about-section {
+    padding: 40px 0;
+    background-color: #f5f5f5;
+  }
+  
+  .about-section h2 {
+    font-size: 28px;
+    margin-bottom: 10px;
+  }
+  
+  .about-section p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+  }
